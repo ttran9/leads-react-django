@@ -4,6 +4,9 @@ leadmanager/*.sqlite3
 # vscode
 .vscode
 
+# pycharm/webstorm.
+.idea
+
 # React
 node_modules
 
