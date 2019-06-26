@@ -6,5 +6,4 @@
 
 # Some Notes
 
-- The initial upload will have the changes after video 1.
-- I plan to create branches for each of the videos and so that would mean that if I need to refer to code at the start of video 3 I would grab the branch for the end of video 2.
+- This branch will have changes up to the end of video 1!
