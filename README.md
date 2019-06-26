@@ -6,4 +6,4 @@
 
 # Some Notes
 
-- This branch will have changes up to the end of video 1!
+- Merging in changes to the end of the playlist series.
